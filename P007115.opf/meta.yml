@@ -1,16 +1,17 @@
-id: opecha:P007115
+id: P007115
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS139873
   title: བོད་ཀྱི་སྲོལ་རྒྱུན་མཛེས་རྩལ་ལས་བྲིས་བུར་གཉིས་ཀྱི་བྱུང་བ་མདོ་ཙམ་བརྗོད་པ།
-  volume:
+  author: ''
+  volumes:
     7c6d9628f1e44c31a7919ef6a430f243:
       image_group_id: I1KG1613
       title: Volume 1 of bod kyi srol rgyun mdzes rtsal las bris bur gnyis kyi byung
         ba mdo tsam brjod pa
       volume_number: 1
       total_pages: 606
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་སྲོལ་རྒྱུན་མཛེས་རྩལ་ལས་བྲིས་བུར་གཉིས་ཀྱི་བྱུང་བ་མདོ་ཙམ་བརྗོད་པ།
   author: ''
